@@ -123,3 +123,9 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+div.transbox {
+  padding: 20px;
+  background: rgba(17, 16, 24, 0.7);
+  color: white;
+}
